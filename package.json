@@ -28,7 +28,7 @@
     "@hyas/doks-core": "^1.1.1"
   },
   "engines": {
-    "node": ">=16.12.0",
+    "node": ">=18.12.0",
     "pnpm": ">=8.6.2"
   },
   "packageManager": "pnpm@8.6.2"
